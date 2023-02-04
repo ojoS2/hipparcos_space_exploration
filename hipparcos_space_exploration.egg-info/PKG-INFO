@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: hipparcos-space-exploration
+Version: 0.1.0
+Summary: A package to load, process and explore data from the              hipparcos mission vailable database
+Home-page: UNKNOWN
+Author: Ricardo S P Lopes
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.8
+License-File: LICENSE
+
+UNKNOWN
+

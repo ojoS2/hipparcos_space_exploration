@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+hipparcos_space_exploration.egg-info/PKG-INFO
+hipparcos_space_exploration.egg-info/SOURCES.txt
+hipparcos_space_exploration.egg-info/dependency_links.txt
+hipparcos_space_exploration.egg-info/requires.txt
+hipparcos_space_exploration.egg-info/top_level.txt
